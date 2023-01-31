@@ -1,7 +1,7 @@
 # The "Rock - Paper - Scissors" Game :joystick:
 ### A console-based JavaScript implementation of the "Rock-Paper-Scissors" game.
 ![image](https://user-images.githubusercontent.com/73800200/215718684-39f400aa-5a19-4930-85c9-93259a31dc4c.png)
-###  #1589F0Rock-Paper-Scissors#1589F0  is a simple two player game. Where you and your oponent(the computer) simultaneously choose one of the following three options: "rock", "paper"or "scissors". The rules are as follows:
+###  $\color{blue}{Rock-Paper-Scissors}$  is a simple two player game. Where you and your oponent(the computer) simultaneously choose one of the following three options: "rock", "paper"or "scissors". The rules are as follows:
 
 - Rock beats scissors
 - Scissors beats paper
