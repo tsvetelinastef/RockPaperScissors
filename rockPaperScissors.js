@@ -14,7 +14,7 @@ function rockPaperScissors(playerChoice) {
         console.log("Invalid Input. Try Again...");
         return;
     }
-    console.log(`You choose ${playerChoice}`);
+    console.log(`\x1b[33mYou choose ${playerChoice} \x1b[0m`);
 
     //Computer Choice
 
@@ -42,7 +42,7 @@ function rockPaperScissors(playerChoice) {
         || (playerChoice == scissors && computerChoice == 'Rock')) {
         console.log('You Lose!');
     } else {
-        console.log('This game was a draw!');
+        console.log('This game was a draw!'); 
     }
 
 
@@ -51,6 +51,10 @@ function rockPaperScissors(playerChoice) {
 rockPaperScissors("r");
 
 /*
+
+Source: https://blog.logrocket.com/using-console-colors-node-js/#implementing-console-colors-node-js-apps
+
+
   // let computerTurn = 0;
     // let playerTurn = 0;
 
